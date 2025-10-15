@@ -1,6 +1,6 @@
 streamlit==1.32.2
+requests==2.31.0
 gTTS==2.5.1
 pydub==0.25.1
 soundfile
 numpy
-requests==2.31.0
